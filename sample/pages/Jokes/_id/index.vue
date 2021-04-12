@@ -2,7 +2,7 @@
   <div>Single Joke: {{ joke }}</div>
 </template>
 
-<script lang="ts">
+<script>
 import axios, { AxiosResponse } from 'axios'
 
 export default {
