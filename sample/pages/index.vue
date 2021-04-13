@@ -9,7 +9,7 @@
 export default {
     head(){
         return {
-            title:'Welcome to Dad Jokes',
+            title:'Welcome to Corny Jokes',
             meta:[{
                 hid:'description',
                 name:'description',

@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h1>Bad dad jokes</h1>
-        <p>This is an app for bad dad jokes</p>
+        <h1>Bad jokes</h1>
+        <p>This is an app for bad jokes</p>
     </div>
 </template>
 
@@ -13,7 +13,7 @@ export default {
             meta:[{
                 hid:'description',
                 name:'description',
-                content:'Best place for corny dad jokes'
+                content:'Best place for corny jokes'
             }]
         }
     }

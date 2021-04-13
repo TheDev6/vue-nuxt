@@ -37,12 +37,12 @@ export default {
 
   head() {
     return {
-      title: 'JOkes are here!!!',
+      title: 'Jokes are here!!!',
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: 'Best place for corny dad jokes',
+          content: 'Best place for corny jokes',
         },
       ],
     }
